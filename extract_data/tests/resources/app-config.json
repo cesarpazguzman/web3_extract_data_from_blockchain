@@ -1,0 +1,77 @@
+{
+  "ethereum_node": "https://tame-wild-reel.discover.quiknode.pro/769bab361bdeb21065e0d61af80745652507aa82/",
+  "addresses_get_info": ["0x782de3f99f9c73c125a5e6b494373a3c68a2a914", "0x6830ac58535c7c133cb8cca7f9804fe602be3f5c", "0xec8e29c375feda13359386efb5e398af0618f0ee"],
+  "track_history_in_last_blocks": 10000,
+  "logs_folder": "logs",
+  "results_path": "extract_data/tests/resources/results.json",
+  "erc20_list": [
+    {
+      "name": "MATIC",
+      "tokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "abi_path": "extract_data/tests/resources/abi_files/matic.abi.json"
+    },
+    {
+      "name": "USDT",
+      "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "abi_path": "extract_data/tests/resources/abi_files/usdt.abi.json"
+    }
+  ],
+  "compound_tokens": [
+    {
+      "name": "cUSDC",
+      "tokenAddress": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+      "abi_path": "extract_data/tests/resources/abi_files/cusdc.abi.json"
+    },
+    {
+      "name": "cDAI",
+      "tokenAddress": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+      "abi_path": "extract_data/tests/resources/abi_files/cdai.abi.json"
+    },
+    {
+      "name": "cUSDT",
+      "tokenAddress": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
+      "abi_path": "extract_data/tests/resources/abi_files/cusdt.abi.json"
+    },
+    {
+      "name": "cETH",
+      "tokenAddress": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
+      "abi_path": "extract_data/tests/resources/abi_files/ceth.abi.json"
+    },
+    {
+      "name": "COMP",
+      "tokenAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "abi_path": "extract_data/tests/resources/abi_files/comp.abi.json"
+    },
+    {
+      "name": "cBAT",
+      "tokenAddress": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+      "abi_path": "extract_data/tests/resources/abi_files/cbat.abi.json"
+    },
+    {
+      "name": "cUNI",
+      "tokenAddress": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
+      "abi_path": "extract_data/tests/resources/abi_files/cuni.abi.json"
+    },
+    {
+      "name": "cZRX",
+      "tokenAddress": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
+      "abi_path": "extract_data/tests/resources/abi_files/czrx.abi.json"
+    },
+    {
+      "name": "cWBTC",
+      "tokenAddress": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
+      "abi_path": "extract_data/tests/resources/abi_files/cwbtc.abi.json"
+    },
+    {
+      "name": "cCOMP",
+      "tokenAddress": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
+      "abi_path": "extract_data/tests/resources/abi_files/ccomp.abi.json"
+    }
+  ],
+  "airdrop_info": {
+    "airdrop_address_example": "0xAd815dB0B31B76B33138482343605E71fa69CB59",
+    "airdrop_address_abi": "extract_data/tests/resources/abi_files/airdrop-example.abi.json",
+    "airdrop_to_block": 14661136,
+    "airdrop_from_block": 14635446
+  }
+}

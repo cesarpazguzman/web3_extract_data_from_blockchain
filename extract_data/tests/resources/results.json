@@ -1,0 +1,115 @@
+{
+    "TrackingAddresses": {
+        "0x782de3f99f9c73c125a5e6b494373a3c68a2a914": {
+            "Type": "Private key address",
+            "CurrentBalanceETH": 0.008810823882979367,
+            "DetailsERC20": {
+                "MATIC": {
+                    "CurrentBalance": 0.0,
+                    "TransactionsHistory": {
+                        "Transfers": [],
+                        "Swaps": []
+                    }
+                },
+                "USDT": {
+                    "CurrentBalance": 0.0,
+                    "TransactionsHistory": {
+                        "Transfers": [],
+                        "Swaps": []
+                    }
+                }
+            }
+        },
+        "0x6830ac58535c7c133cb8cca7f9804fe602be3f5c": {
+            "Type": "Private key address",
+            "CurrentBalanceETH": 0.005862645749174933,
+            "DetailsERC20": {
+                "MATIC": {
+                    "CurrentBalance": 0.0,
+                    "TransactionsHistory": {
+                        "Transfers": [
+                            "0xd537aba170f2d96006ac9cc6165f43d1d3da53f52f1738f8aff759b1ff5dd738"
+                        ],
+                        "Swaps": []
+                    }
+                },
+                "USDT": {
+                    "CurrentBalance": 0.0,
+                    "TransactionsHistory": {
+                        "Transfers": [
+                            "0x707003da2d4d6a99f5ef109a76bc6d2d148e94572209a3be36e35e54b2366107"
+                        ],
+                        "Swaps": []
+                    }
+                }
+            }
+        },
+        "0xec8e29c375feda13359386efb5e398af0618f0ee": {
+            "Type": "Private key address",
+            "CurrentBalanceETH": 0.012398606480249324,
+            "DetailsERC20": {
+                "MATIC": {
+                    "CurrentBalance": 0.0,
+                    "TransactionsHistory": {
+                        "Transfers": [],
+                        "Swaps": []
+                    }
+                },
+                "USDT": {
+                    "CurrentBalance": 0.0,
+                    "TransactionsHistory": {
+                        "Transfers": [],
+                        "Swaps": []
+                    }
+                }
+            }
+        }
+    },
+    "CompoundTokensTimeMintBurnt": {
+        "cUSDC": {
+            "Mint_time_median": "12:11 (Hora est\u00e1ndar GMT)",
+            "Burnt_time_median": "N/A"
+        },
+        "cDAI": {
+            "Mint_time_median": "14:30 (Hora est\u00e1ndar GMT)",
+            "Burnt_time_median": "N/A"
+        },
+        "cUSDT": {
+            "Mint_time_median": "13:18 (Hora est\u00e1ndar GMT)",
+            "Burnt_time_median": "N/A"
+        },
+        "cETH": {
+            "Mint_time_median": "11:19 (Hora est\u00e1ndar GMT)",
+            "Burnt_time_median": "N/A"
+        },
+        "COMP": {
+            "Mint_time_median": "N/A",
+            "Burnt_time_median": "N/A"
+        },
+        "cBAT": {
+            "Mint_time_median": "N/A",
+            "Burnt_time_median": "N/A"
+        },
+        "cUNI": {
+            "Mint_time_median": "11:17 (Hora est\u00e1ndar GMT)",
+            "Burnt_time_median": "N/A"
+        },
+        "cZRX": {
+            "Mint_time_median": "N/A",
+            "Burnt_time_median": "N/A"
+        },
+        "cWBTC": {
+            "Mint_time_median": "N/A",
+            "Burnt_time_median": "N/A"
+        },
+        "cCOMP": {
+            "Mint_time_median": "9:39 (Hora est\u00e1ndar GMT)",
+            "Burnt_time_median": "N/A"
+        }
+    },
+    "AirdropInfo": {
+        "Airdrop_address": "0xAd815dB0B31B76B33138482343605E71fa69CB59",
+        "Number_claims": 151,
+        "Median_claimed": 5000.0
+    }
+}

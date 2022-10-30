@@ -1,0 +1,8 @@
+
+.idea/*
+build/*
+dist/*
+venv/*
+extract_data/build/*
+extract_data/dist/*
+extract_data_from_blockchain.egg-info/*

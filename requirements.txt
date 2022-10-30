@@ -1,0 +1,4 @@
+setuptools~=65.3.0
+web3~=5.31.1
+jproperties~=2.1.1
+hexbytes~=0.3.0
